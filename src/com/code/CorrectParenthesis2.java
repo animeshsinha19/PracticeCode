@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Created by Animesh on 7/3/17.
  */
-public class CodeParenthesis2 {
+public class CorrectParenthesis2 {
 
     public static void main(String[] args) {
         String input = ")))";
